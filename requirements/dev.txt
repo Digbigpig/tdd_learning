@@ -1,4 +1,4 @@
--r test.txt
+py.test -svv-r test.txt
 pip
 punch.py
 wheel
